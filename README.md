@@ -2,7 +2,7 @@
 
 **自我介绍**
 
-在微服务项目部署架构，软件架构设计方面拥有丰富的经验，能够独立完成系统设计、开发和优化工作，同时具备3-5人的团队管理经验。在工作期间申请了2项国家工作发明专利。
+在微服务项目部署架构，软件架构设计方面拥有丰富的经验，能够独立完成系统设计和优化工作，同时具备3-5人的团队管理经验。在工作期间申请了2项国家工作发明专利。
 
 **学历**
 
@@ -19,7 +19,8 @@
 - 版本控制: Git,SVN
 - 工具: Maven, Skywalking, ELK, AES, GPG, UML，Shell
 - 测试: JUnit, AB, JMeter
-- 开发工具: IntelliJ IDEA, Eclipse,Jekins,CI/CD 
+- 开发工具: IntelliJ IDEA, Eclipse,Jekins,CI/CD
+- 操作系统：Linux
 
 **专业经验**
 
